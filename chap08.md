@@ -473,3 +473,6 @@ public class OrderSubscriptionAuthorizationInterceptor implements ChannelInterce
 ```
 Đăng ký interceptor này **sau** `StompAuthChannelInterceptor` trong `configureClientInboundChannel`
 để đảm bảo `Principal` đã được gắn trước khi kiểm tra ownership.
+- [Chương 7 - User Specific Messaging](./chap07.md)
+
+- [Chương 9 - Session Management](./chap09.md)

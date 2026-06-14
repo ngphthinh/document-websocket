@@ -121,6 +121,7 @@ src/main/java/com/ecommerce/realtime
 
 00-README.md                          - File này
 # Mục lục
+
 - [Chương 1 - Realtime Communication](./chap01.md)
 - [Chương 2 - WebSocket Fundamentals](./chap02.md)
 - [Chương 3 - Spring Boot WebSocket Setup](./chap03.md)
@@ -129,18 +130,21 @@ src/main/java/com/ecommerce/realtime
 - [Chương 6 - Clean Architecture](./chap06.md)
 - [Chương 7 - User Specific Messaging](./chap07.md)
 - [Chương 8 - Authentication & Authorization](./chap08.md)
-- [Chương 9 - Session Management](./09-session-management.md)
-10-notification-system.md             - Chương 10
-11-scaling-websocket.md               - Chương 11
-12-redis-pubsub-integration.md        - Chương 12
-13-realtime-order-tracking.md         - Chương 13
-14-realtime-dashboard.md              - Chương 14
-15-production-project.md              - Chương 15 (Capstone)
-16-performance-tuning.md              - Nâng cao
-17-websocket-security.md              - Nâng cao
-18-best-practices.md                  - Nâng cao
-19-comparisons.md                     - So sánh công nghệ
-20-kafka-integration.md               - Nâng cao
+- [Chương 9 - Session Management](./chap09.md)
+- [Chương 10 - Notification System](./chap10.md)
+- [Chương 11 - Scaling WebSocket](./chap11.md)
+- [Chương 12 - Redis Pub/Sub Integration](./chap12.md)
+- [Chương 13 - Realtime Order Tracking](./chap13.md)
+- [Chương 14 - Realtime Dashboard](./chap14.md)
+- [Chương 15 - Production Project (Capstone)](./chap15.md)
+
+## Nâng cao
+
+- [Chương 16 - Performance Tuning](./chap16.md)
+- [Chương 17 - WebSocket Security](./chap17.md)
+- [Chương 18 - Best Practices](./chap18.md)
+- [Chương 19 - Technology Comparisons](./chap19.md)
+- [Chương 20 - Kafka Integration](./chap20.md)
 ```
 
 Chúc bạn học tập hiệu quả và sớm trở thành **Senior Realtime Backend Engineer**! 🚀
