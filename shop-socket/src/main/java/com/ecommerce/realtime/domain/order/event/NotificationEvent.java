@@ -1,4 +1,4 @@
-package com.example.realtime.infrastructure.config.messing.websocket.event;
+package com.ecommerce.realtime.domal.order.event;
 
 public sealed interface NotificationEvent permits OrderStatusChangedEvent, ProductStockChangedEvent {
 }
