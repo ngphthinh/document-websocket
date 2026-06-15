@@ -1,4 +1,4 @@
-package com.ecommerce.realtime.domal.order.model;
+package com.ecommerce.realtime.domain.order.model;
 
 import java.util.Set;
 

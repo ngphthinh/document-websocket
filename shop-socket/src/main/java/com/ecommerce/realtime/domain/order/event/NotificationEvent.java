@@ -1,4 +1,4 @@
-package com.ecommerce.realtime.domal.order.event;
+package com.ecommerce.realtime.domain.order.event;
 
 public sealed interface NotificationEvent permits OrderStatusChangedEvent, ProductStockChangedEvent {
 }

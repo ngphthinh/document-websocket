@@ -1,4 +1,4 @@
-package com.example.realtime.application.product;
+package com.ecommerce.realtime.application.product;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

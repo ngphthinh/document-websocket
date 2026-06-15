@@ -1,4 +1,4 @@
-package com.ecommerce.realtime.domal.order.model;
+package com.ecommerce.realtime.domain.order.model;
 
 import com.ecommerce.realtime.domain.order.event.OrderStatusChangedEvent;
 import lombok.Getter;

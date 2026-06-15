@@ -1,6 +1,6 @@
-package com.example.realtime.application.product;
+package com.ecommerce.realtime.application.product;
 
-import com.example.realtime.infrastructure.config.messing.websocket.event.ProductStockChangedEvent;
+import com.ecommerce.realtime.domain.order.event.ProductStockChangedEvent;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
